@@ -1,1 +1,2 @@
-# PROJECT-29
+# PROJRCT 29
+Boiler plate for p5.play
